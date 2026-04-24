@@ -1,0 +1,45 @@
+baseURL = 'https://scacchi.frampula.com'
+languageCode = 'it'
+title = 'Frampula Scacchi'
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 10
+[[menu.main]]
+name = "Tornei"
+url = "/tornei/"
+weight = 20
+[[menu.main]]
+name = "Corsi"
+url = "/corsi/"
+weight = 30
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 40
+[[menu.main]]
+name = "Linktree"
+url = "https://linktree.scacchi.frampula.com"
+weight = 50
+
+[privacy]
+[privacy.disqus]
+disable = true
+[privacy.googleAnalytics]
+disable = true
+[privacy.instagram]
+disable = true
+[privacy.x]
+disable = true
+[privacy.vimeo]
+disable = true
+[privacy.youtube]
+disable = true
+
+[outputs]
+section = ["HTML"]
+
+[params]
+logo = "/images.logo.png"

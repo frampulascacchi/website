@@ -1,0 +1,15 @@
+{{ range . }}
+<hr>
+<div class="article">
+  <p>
+    <span class="date">
+        <a href="{{ .Permalink }}">
+            {{.Date.Format "January 2, 2006"}}
+        </a>
+    </span>
+    <br>
+    {{ .Content }}
+  </p>
+</div>
+{{ end }}
+<hr>

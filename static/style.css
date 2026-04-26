@@ -167,3 +167,20 @@ aside.single {
     float: right;
     text-align: right;
 }
+
+.heading-anchor {
+    margin-left: .35rem;
+    text-decoration: none;
+    opacity: 0;
+    transition: opacity .15s ease-in-out;
+}
+
+h1:hover .heading-anchor,
+h2:hover .heading-anchor,
+h3:hover .heading-anchor,
+h4:hover .heading-anchor,
+h5:hover .heading-anchor,
+h6:hover .heading-anchor,
+.heading-anchor:focus {
+    opacity: 1;
+}

@@ -2,6 +2,15 @@ baseURL = 'https://scacchi.frampula.com'
 languageCode = 'it'
 title = 'Frampula Scacchi'
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.parser]
+autoHeadingID = true
+autoHeadingIDType = 'github'
+
+[markup.goldmark.parser.attribute]
+block = true
+
 [menu]
 [[menu.main]]
 name = "Home"

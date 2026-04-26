@@ -8,7 +8,7 @@ Vogliamo dare uno spazio agli appassionati di _tutte le età e livelli_ per pote
 
 📣 Entra nella Community [Whatsapp](https://chat.whatsapp.com/CO5nc4x6AW82QsekmBYdnD) per tenerti aggiornata/o sugli eventi organizzati da noi!
 
-### Dove trovarci 📍
+### Dove trovarci 📍 {#dove-trovarci}
 
 Ci trovi in [Via Giuseppe Mazzini, 2 a Forlimpopoli](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7).
 

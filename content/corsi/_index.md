@@ -1,4 +1,4 @@
-## In gioco - Scacchi per crescere, includere, stare insieme
+## In gioco - Scacchi per crescere, includere, stare insieme {#corso-scacchi-giovanile-centro-famiglie}
 
 - [Locandina](/flyers/corso_scacchi_centrofamiglie.pdf)
 
@@ -19,7 +19,7 @@ Il progetto coinvolge attivamente le famiglie, rendendole parte del percorso edu
 Il percorso prevede **5/6** incontri e un grande evento conclusivo a [**Villa Masini**](http://casamasini.org/), momento nel quale i ragazzi potranno
 mettersi alla prova confrontandosi con maestri e trascorrere una giornata di festa collettiva.
 
-### Calendario 🗓️ (in aggiornamento)
+### Calendario 🗓️ (in aggiornamento) {#calendario}
 
 **1ᵒ Evento**: 
 - 🗓️ **08/05/2026**

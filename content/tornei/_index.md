@@ -1,15 +1,11 @@
----
-title: "Tornei"
----
-
 Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, con i link alle pagine evento su [`vesus.org`](https://vesus.org/user/frampulascacchi).
 
-### Prossimi tornei 🔜
+### Prossimi tornei in programma 🔜 {#in-programma}
 
 - [Torneo di scacchi da UGO - 29 aprile 2026](https://vesus.org/tournament/JWKUy0Zp)
 - [2° Torneo Rapid UGO Memorial Enrico Johnson - 9 maggio 2026](https://vesus.org/tournament/ECoIX3td)
 
-### Tornei già svolti 🔙
+### Tornei passati 🔙 {#passati}
 
 - [Torneo di scacchi da UGO - 22 aprile 2026](https://vesus.org/tournament/FLh2Mz2E)
 - [Torneo di scacchi da UGO - 1 aprile 2026](https://vesus.org/tournament/3D3ofzjR)

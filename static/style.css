@@ -1,12 +1,17 @@
 body {
     font-family: sans-serif;
     color: #454545;
+    background-color: #fff;
     font-size: 16px;
     margin: 2em auto;
     max-width: 800px;
     padding: 1em;
     line-height: 1.4;
     text-align:justify
+}
+
+html {
+    background-color: #fff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -33,6 +38,56 @@ body {
     html a:visited {
         color:#ca1a70
     }
+}
+
+html[data-theme="light"] {
+    background-color: #fff;
+}
+
+html[data-theme="dark"] {
+    background-color: #111;
+}
+
+html[data-theme="light"] body {
+    background-color: #fff;
+    color: #454545;
+}
+
+html[data-theme="dark"] body {
+    background-color: #111;
+    color: #d9d9d9;
+}
+
+html[data-theme="light"] blockquote {
+    color: #456;
+}
+
+html[data-theme="dark"] blockquote {
+    color: #d3c9be;
+}
+
+html[data-theme="light"] blockquote:before {
+    color: #666;
+}
+
+html[data-theme="dark"] blockquote:before {
+    color: #b8b8b8;
+}
+
+html[data-theme="light"] a {
+    color: #07a;
+}
+
+html[data-theme="dark"] a {
+    color: #00a2e7;
+}
+
+html[data-theme="light"] a:visited {
+    color: #941352;
+}
+
+html[data-theme="dark"] a:visited {
+    color: #ca1a70;
 }
 
 a {
@@ -114,9 +169,13 @@ blockquote:after {
     clear:both
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 430px) {
     body {
         text-align:left
+    }
+
+    .theme-toggle {
+        display: none;
     }
 
     blockquote span {
@@ -161,6 +220,63 @@ nav a:hover {
     nav a:hover {
         background-color: #333;
     }
+}
+
+html[data-theme="light"] nav {
+    background-color: #eee;
+}
+
+html[data-theme="dark"] nav {
+    background-color: #222;
+}
+
+html[data-theme="light"] nav a:hover {
+    background-color: #ddd;
+}
+
+html[data-theme="dark"] nav a:hover {
+    background-color: #333;
+}
+
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.site-header h1 {
+    flex: 1 1 auto;
+    margin: 0;
+    min-width: 0;
+}
+
+.theme-toggle {
+    -webkit-appearance: none;
+    appearance: none;
+    border: 1px solid currentColor;
+    background: transparent;
+    color: inherit;
+    border-radius: 999px;
+    cursor: pointer;
+    font: inherit;
+    font-size: .9rem;
+    line-height: 1.2;
+    margin: 0;
+    padding: .45rem .9rem;
+    white-space: nowrap;
+}
+
+.theme-toggle-icon {
+    display: block;
+    height: 1.1rem;
+    width: 1.1rem;
+}
+
+.theme-toggle:hover {
+    opacity: .85;
 }
 
 aside.single {

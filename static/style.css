@@ -198,6 +198,21 @@ blockquote:after {
     font-style: italic;
 }
 
+table {
+    margin: 1.5rem auto;
+    border-collapse: collapse;
+    display: block;
+    width: fit-content;
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+th,
+td {
+    padding: 0.35rem 0.6rem;
+    text-align: center;
+}
+
 nav {
     background-color: #eee;
     display: flex;

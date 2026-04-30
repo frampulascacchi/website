@@ -1,5 +1,9 @@
 **.DS_Store
 
+# Final standings from vesus.org
+scripts/*.md
+scripts/*.txt
+
 .editorconfig
 
 # Generated files by hugo

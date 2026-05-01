@@ -2,7 +2,7 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 
 ### Prossimi tornei in programma 🔜 {#in-programma}
 
-- [2° Torneo Rapid UGO Memorial Enrico Johnson - 9 maggio 2026](https://vesus.org/tournament/ECoIX3td)
+- [2° Torneo Rapid UGO Memorial Enrico Johnson - 9 maggio 2026](/posts/2026/04/torneo-memorial-enrico-johnson)
 
 ### Tornei passati 🔙 {#passati}
 

@@ -29,8 +29,8 @@ name = "About"
 url = "/about/"
 weight = 40
 [[menu.main]]
-name = "Linktree"
-url = "https://linktree.scacchi.frampula.com"
+name = "WhatsApp"
+url = "https://chat.whatsapp.com/CO5nc4x6AW82QsekmBYdnD"
 weight = 50
 
 [privacy]

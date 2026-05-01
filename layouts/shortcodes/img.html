@@ -1,0 +1,5 @@
+<div style="width: 100%; display: flex; justify-content: center;">
+    <img src="{{ .Get "src" }}" 
+         alt="{{ .Get "alt" }}" 
+         style="width: {{ default "100%" (.Get "width") }}; max-width: 100%; height: auto;" />
+</div>

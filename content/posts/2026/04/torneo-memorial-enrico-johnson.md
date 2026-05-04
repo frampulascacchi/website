@@ -40,10 +40,18 @@ Potrai *pre-isciverti* - confermando la tua presenza il giorno stesso - tramite 
 
 ### ✍️ Ore 15:00 – 15:30: Gioco libero ed iscrizioni al torneo
 
-- 💸 Quota d'iscrizione[^1]: 
-    - **€ 5** per _Under 18_ o partecipanti ad *Almeno 5 tornei* di Frampula Scacchi
-    - **€ 7** per gli altri
+💸 Quota d'iscrizione[^1]:
+  - **€ 5** per _Under 18_ o partecipanti ad *Almeno 5 dei 10 tornei* organizzati da noi (lista [qui](/tornei/#passati))
+  - **€ 7** per gli altri
 
+#### Modalità di pagamento {#come-pagare}
+
+Specificando *nome e cognome* nella causale di pagamento per pagamenti elettronici:
+ - Revolut: tramite [questo link](https://revolut.me/niccolozanotti)
+ - PayPal: tramite [questo link](https://paypal.me/feyn23)
+ - Satispay: tramite [questo link](https://web.satispay.com/download/qrcode/S6Y-CON--AE854EED-54C1-4616-B838-E649CF191810)
+ - Bonifico Bancario intestato a *Niccolò Zanotti*, IBAN: `IT26L0366901600787154408558`
+ - In contanti il giorno del torneo
 
 ### 🏆♟️ Ore 15:30 – 18:30 (Circa): Il Torneo {#torneo}
 
@@ -51,7 +59,22 @@ Potrai *pre-isciverti* - confermando la tua presenza il giorno stesso - tramite 
 - ⏰ Cadenza _Rapid_:
     - ⏳*10+0*
     - 🔄 Round di gioco: *7*
-* **Premi:** Cerimonia di premiazione a fine evento.
+
+### 🏆 Premiazione {#premi}
+
+Cerimonia di premiazione a fine evento.
+
+Saranno premiati, con **premi in natura** e **premi a tema scacchistico**:
+
+- Primi 5 classificati assoluti
+- Primi 3 classificati Under 18
+- Primo classificato NC
+
+Inoltre:
+- Premi **estratti a sorte tra tutti i partecipanti** offerti dal negozio [Le Due Torri di Bologna](https://www.scacco.it)
+- **Premio sociale** (scacchiera in ceramica fatta a mano) in collaborazione con la [Cooperativa Sociale Lamberto Valli](https://www.lambertovalli.com)
+
+{{< img src="/images/premi_johnson_overview.png" alt="coppa primo classificato" width="682px" >}}
 
 ### 🎶🍕🍻 Ore 18:30 – 24:00: Serata di cibo, musica e scacchi {#serata}
 

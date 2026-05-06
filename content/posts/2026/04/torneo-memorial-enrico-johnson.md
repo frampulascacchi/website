@@ -27,7 +27,10 @@ pizza 🍕, primi 🍝 e bevande 🍺, cosi da poter continuare fino a *tarda se
 * **Luogo:** [Aula UGO, Ex Asilo Rosetti, Via Giuseppe Mazzini 2, Forlimpopoli (FC)](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7)
 
 ## 🅿️🚘 Dove parcheggiare {#parcheggio}
-Il parcheggio pubblico con capienza significativa più vicino si trova in [Piazza Trieste](https://maps.app.goo.gl/jMreEtSLgZfX6U2i6).
+I parcheggi pubblici con capienza significativa più vicini si trovano (in ordine di distanza):
+- In [Piazza Trieste](https://maps.app.goo.gl/jMreEtSLgZfX6U2i6)
+- In [Via Pertini](https://maps.app.goo.gl/2Z2fMwZ9phnFq5vXA)
+- In [Piazzetta del Bersagliere](https://maps.app.goo.gl/gn7wYJrAvs18etNu8)
 
 ## Come iscriversi? {#come-iscriversi}
 

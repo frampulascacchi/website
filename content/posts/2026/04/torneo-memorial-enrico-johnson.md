@@ -51,7 +51,7 @@ Potrai *pre-isciverti* - confermando la tua presenza il giorno stesso - tramite 
 
 Specificando *nome e cognome* nella causale di pagamento per pagamenti elettronici:
  - Revolut: tramite [questo link](https://revolut.me/niccolozanotti)
- - PayPal: tramite [questo link](https://paypal.me/feyn23)
+ - PayPal: tramite [questo link](https://paypal.me/feyn23) **specificando per amici e parenti**
  - Satispay: tramite [questo link](https://web.satispay.com/download/qrcode/S6Y-CON--AE854EED-54C1-4616-B838-E649CF191810)
  - Bonifico Bancario intestato a *Niccolò Zanotti*, IBAN: `IT26L0366901600787154408558`
  - In contanti il giorno del torneo

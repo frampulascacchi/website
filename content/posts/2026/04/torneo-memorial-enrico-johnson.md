@@ -85,6 +85,17 @@ Per chi lo desidererà, sarà possibile continuare a giocare con noi ♟️ anch
 In collaborazione con [Il Ristorante La Rosa Dei Venti](https://maps.app.goo.gl/bgXusbHtdQE7bz5i8) provvederemo noi a fare arrivare, per chi lo desidererà, 
 pizza 🍕, primi 🍝 e bevande 🍺, cosi da poter continuare fino a *tarda serata* 🫶🏻 deliziati dalla musica proposta da [DJ Peros](https://www.instagram.com/nicoloperini_/) 🎶.
 
+#### Menù {#menu}
+
+Per consultare il menu:
+- [Pizze 🍕](/posts/menu_rosadeiventi_pizze.pdf)
+- [Menù completo](/posts/menu_rosadeiventi_completo.pdf)
+
+Le bevande saranno fornite da noi:
+- Coca-cola
+- Birra
+- Spritz
+
 ---
 
 📞 Contatti:
@@ -94,4 +105,3 @@ pizza 🍕, primi 🍝 e bevande 🍺, cosi da poter continuare fino a *tarda se
 [^1]: Invitiamo a [pre-iscriversi al torneo](#iscrizione) quanto prima per facilitare l'organizzazione dell'evento.
 Per coloro che vorranno partecipare al torneo il giorno stesso _senza essersi pre-iscritti su vesus e senza aver comunicato la propria intenzione di partecipare agli organizzatori_
 il costo di iscrizione sarà di **€ 10**.
-

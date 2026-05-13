@@ -22,28 +22,33 @@ mettersi alla prova confrontandosi con maestri e trascorrere una giornata di fes
 
 ### Calendario 🗓️ (in aggiornamento[^1]) {#calendario}
 
-**1ᵒ Evento**: 
+**1ᵒ Incontro**:
 - 🗓️ **08/05/2026**
 - ⏰ Dalle ore 16.00
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**2ᵒ Evento**: 
+**2ᵒ Incontro + Con i genitori**:
+- 🗓️ **29/05/2026**
+- ⏰ Dalle ore 15.00
+- 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
+
+**3ᵒ Incontro**:
 - 🗓️ **05/06/2026**
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**3ᵒ Evento**: 
+**4ᵒ Evento**:
 - 🗓️ *Da determinare*
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**4ᵒ Evento**: 
+**5ᵒ Evento**:
 - 🗓️ *Da determinare*
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**5ᵒ Evento**: 
+**6ᵒ Evento**:
 - 🗓️ *Da determinare*
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**Evento conclusivo a Villa Masini**: 
+**Evento conclusivo a Villa Masini**:
 - 🗓️ **Weekend di Metà/fine settembre**
 - 📍 *Villa Masini, Via Antica Massa 33, Ravenna (RA)* ([Google Maps](https://maps.app.goo.gl/NsdvCVmfQjKkthaS8))
 

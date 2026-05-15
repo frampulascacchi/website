@@ -2,8 +2,7 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 
 ### Prossimi tornei in programma 🔜 {#in-programma}
 
-*...In arrivo*
-
+- [Torneo UGO Rapid - 27 maggio 2026](/tornei/torneo-da-ugo-27052026/)
 
 ### Tornei passati 🔙 {#passati}
 

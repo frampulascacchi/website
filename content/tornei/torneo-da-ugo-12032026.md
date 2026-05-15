@@ -5,7 +5,7 @@ title: "Torneo da UGO Rapid - 12/03/2026"
 - Cadenza: ⏳ 10+0
 - Turni: 5
 
-## Classifica finale
+## Classifica finale {#classifica}
 
 | Pos | Name | Perf | Pts | DE | BH | BH/C1 | ARO |
 |---|---|---|---|---|---|---|---|

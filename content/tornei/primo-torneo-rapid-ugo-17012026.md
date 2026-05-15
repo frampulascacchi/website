@@ -8,7 +8,7 @@ title: "1° Torneo Rapid UGO Forlimpopoli - 17/01/2026"
 Primo torneo di Frampula Scacchi!
 Leggi tutte le info nel [post relativo](/posts/2025/12/torneoscacchi-gen2026).
 
-## Classifica
+## Classifica finale {#classifica}
 
 | Pos | Name | Perf | Pts | DE | BH | BH/C1 | ARO |
 |---|---|---|---|---|---|---|---|

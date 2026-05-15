@@ -6,7 +6,7 @@ title: "Torneo da UGO Blitz - 18/03/2026"
 - Cadenza: ⏳ 5+0
 - Turni: 9
 
-## Classifica finale
+## Classifica finale {#classifica}
 
 | Pos | Name | Perf | Pts | DE | BH | BH/C1 | ARO |
 |---|---|---|---|---|---|---|---|

@@ -6,7 +6,7 @@ title: "Torneo da UGO - 25/02/2026"
 - Cadenza: ⏳ 10+0
 - Turni: 5
 
-## Classifica finale
+## Classifica finale {#classifica}
 
 | Pos | Name | Perf | Pts | DE | BH | BH/C1 | ARO |
 |---|---|---|---|---|---|---|---|

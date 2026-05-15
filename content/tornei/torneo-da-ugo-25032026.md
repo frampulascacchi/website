@@ -13,7 +13,7 @@ title: "Torneo da UGO Countdown - 25/03/2026"
     - 1+1
 - 🔁 Turni: 7
 
-## Classifica finale
+## Classifica finale {#classifica}
 
 | Pos | Name | Perf | Pts | DE | BH | BH/C1 | ARO |
 |---|---|---|---|---|---|---|---|

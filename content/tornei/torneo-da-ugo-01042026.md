@@ -7,7 +7,7 @@ title: "Torneo da UGO Rapid 🃏 - 01/04/2026"
 - 🃏 Apertura iniziale estratta
 
 
-## Classifica
+## Classifica finale {#classifica}
 
 | Pos | Name | Perf | Pts | DE | BH | BH/C1 | ARO |
 |---|---|---|---|---|---|---|---|

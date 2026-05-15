@@ -11,7 +11,7 @@ title: "2° Torneo Rapid UGO - Memorial Enrico Johnson - 09/05/2026"
 
 Trovi tutte le informazioni sul torneo nel [post relativo](/posts/2026/04/torneo-memorial-enrico-johnson).
 
-## Classifica
+## Classifica finale {#classifica}
 
 | Pos | Name | Perf | Pts | DE | BH | BH/C1 | ARO |
 |---|---|---|---|---|---|---|---|

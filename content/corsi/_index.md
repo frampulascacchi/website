@@ -1,6 +1,6 @@
 ## In gioco - Scacchi per crescere, includere, stare insieme {#corso-scacchi-giovanile-centro-famiglie}
 
-- [Locandina](/flyers/corso_scacchi_centrofamiglie.pdf)
+- [Locandina](/flyers/volantino_incontri_scacchi_giovanili.pdf)
 - [Form di iscrizione](https://scacchi.frampula.com/corso-giovanile) (_gratuita_)
 
 In collaborazione con il [Centro Famiglie della Romagna Forlivese](https://www.informafamiglie.it/romagna-forlivese/servizi-alle-famiglie/servizi-alle-famiglie)
@@ -29,22 +29,20 @@ mettersi alla prova confrontandosi con maestri e trascorrere una giornata di fes
 
 **2ᵒ Incontro + Con i genitori**:
 - 🗓️ **29/05/2026**
-- ⏰ Dalle ore 15.00
+- ⏰ Programma:
+    - Dalle ore **16.00**: Incontro con i genitori. Nel mentre sarà possibile per i ragazzi giocare liberamente a scacchi/con un calcio balilla o ping pong.
+    - Dalle ore **16.30**: Inizio lezione
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
 **3ᵒ Incontro**:
 - 🗓️ **05/06/2026**
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**4ᵒ Evento**:
+**4ᵒ Incontro**:
 - 🗓️ *Da determinare*
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**5ᵒ Evento**:
-- 🗓️ *Da determinare*
-- 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
-
-**6ᵒ Evento**:
+**5ᵒ Incontro**:
 - 🗓️ *Da determinare*
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
@@ -63,7 +61,7 @@ In seguito, al fine di rendicontare l'attività, in ogni giornata verranno segna
 ### Contatti
 
 Rimaniamo a disposizione per qualsiasi curiosità e domanda. Potete contattarci:
-- Via [Whatsapp](https://wa.me/393886349421?text=Ciao%20Enrico%21%0ATi%20contatto%20per%20chiederti%20pi%C3%B9%20informazioni%20in%20merito%20al%20corso%20di%20scacchi%20che%20organizzate%20all%27Ex%20Asilo%20Rosetti%20a%20Forlimpopoli)
+- Via [Whatsapp](https://wa.me/15125849778?text=%2AIncontri%20sugli%20scacchi%2A%0ACiao%20_Frampula%20Scacchi_%2C)
 - Per mail a [scacchi@frampula.com](mailto:scacchi@frampula.com?subject=Corso%20giovanile%20di%20scacchi)
 
 [^1]: Il calendario completo è ancora in fase di definizione a causa di impegni difficilmente prevedibili degli organizzatori.

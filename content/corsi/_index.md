@@ -35,7 +35,7 @@ mettersi alla prova confrontandosi con maestri e trascorrere una giornata di fes
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
 **3ᵒ Incontro**:
-- 🗓️ **05/06/2026**
+- 🗓️ *Da determinare*
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
 **4ᵒ Incontro**:

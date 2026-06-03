@@ -3,6 +3,7 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 ### Prossimi tornei in programma 🔜 {#in-programma}
 
 - [Torneo UGO Random Opening - 3 giugno 2026](/tornei/torneo-da-ugo-03062026/)
+- [Torneo UGO Blitz - 10 giugno 2026](/tornei/torneo-da-ugo-10062026/)
 
 ### Tornei passati 🔙 {#passati}
 

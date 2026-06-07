@@ -1,5 +1,5 @@
 ---
-title: "Torneo da UGO (Blitz) - 10/06/2026"
+title: "Torneo da UGO (Blitz) - 17/06/2026"
 ---
 
 > _Qualunque sia il vostro livello siete i benvenuti da UGO per una serata all’insegna del divertimento sulla scacchiera_.
@@ -15,7 +15,7 @@ Evento della rassegna estiva "Serate Scacchi da UGO" (leggi di più [qui](/posts
     - *21:00*: Inizio Torneo
     - *23:15*: 🏆 Premiazioni
 - Pre-iscrizione:
-    - Su `vesus.org` da [questo link](https://vesus.org/tournament/AAH6fxJ1?selectedTab=tournament.registration)
+    - Su `vesus.org` da [questo link](https://vesus.org/tournament/Kw37Tln3?selectedTab=tournament.registration)
     - Comunicandoci i vostri dati su **WhatsApp** cliccando [qui](https://wa.me/15125849778?text=Ciao%20_Frampula%20Scacchi_%21%0AVorrei%20iscrivermi%20al%20prossimo%20torneo%20da%20UGO%2A.%0A-%20%2ANome%2A%3A%0A-%20%2ACognome%2A%3A%0A-%20%2AData%20di%20nascita%2A%3A%0A-%20%2Aemail%2A%3A)
 - 💸 Costo di iscrizione (online/in loco):
     - *€ 4*

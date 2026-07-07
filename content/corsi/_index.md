@@ -47,7 +47,9 @@ mettersi alla prova confrontandosi con maestri e trascorrere una giornata di fes
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
 **5ᵒ Incontro**:
-- 🗓️ *Da determinare*
+- 🗓️ **14/07/2026**
+    - Dalle ore **20.30**: Incontro con i genitori
+    - Dalle ore **20.30**: Torneo informale di scacchi tra i partecipanti
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
 **Evento conclusivo a Villa Masini**:

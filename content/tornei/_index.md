@@ -2,11 +2,11 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 
 ### Prossimi tornei in programma 🔜 {#in-programma}
 
-- [Torneo Blitz Freschineria (Festa Artusiana) - 1 luglio 2026](/tornei/torneo-da-ugo-01072026/)
 - [Torneo Rapid Hotel Universal (Cervia) - 15 luglio 2026](/tornei/torneo-rapid-hotel-universal-cervia-15072026/)
 
 ### Tornei passati 🔙 {#passati}
 
+- [Torneo Blitz Freschineria (Festa Artusiana) - 1 luglio 2026](/tornei/torneo-da-ugo-01072026/)
 - [Torneo UGO Blitz - 17 giugno 2026](/tornei/torneo-da-ugo-17062026/)
 - [Torneo UGO Random Opening - 3 giugno 2026](/tornei/torneo-da-ugo-03062026/)
 - [Torneo UGO Rapid - 27 maggio 2026](/tornei/torneo-da-ugo-27052026/)

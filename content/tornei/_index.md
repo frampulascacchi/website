@@ -2,14 +2,15 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 
 ### Prossimi tornei in programma 🔜 {#in-programma}
 
-- [Torneo Rapid - 10 settembre 2026](https://vesus.org/tournament/TlUzpWBH?selectedTab=tournament.registration)
-- [Torneo Rapid - 17 settembre 2026](https://vesus.org/tournament/Hi5x9gh3?selectedTab=tournament.registration)
-- [Torneo Rapid - 15 ottobre 2026](https://vesus.org/tournament/kxNzqF6C?selectedTab=tournament.registration)
-- [Torneo Rapid - 5 novembre 2026](https://vesus.org/tournament/OC1foqz6?selectedTab=tournament.registration)
-- [Torneo Rapid - 19 novembre 2026](https://vesus.org/tournament/bzyhqaKE?selectedTab=tournament.registration)
+- [Torneo sulla Torre - 1 ottobre 2026](https://vesus.org/tournament/XfxqM5Iv?selectedTab=tournament.registration)
+- [Torneo sulla Torre - 15 ottobre 2026](https://vesus.org/tournament/kxNzqF6C?selectedTab=tournament.registration)
+- [Torneo sulla Torre - 5 novembre 2026](https://vesus.org/tournament/OC1foqz6?selectedTab=tournament.registration)
+- [Torneo sulla Torre - 19 novembre 2026](https://vesus.org/tournament/bzyhqaKE?selectedTab=tournament.registration)
 
 ### Tornei passati 🔙 {#passati}
 
+- [Torneo sulla Torre - 17 settembre 2026](/tornei/torneo-sulla-torre-17092026/)
+- [Torneo sulla Torre - 10 settembre 2026](/tornei/torneo-sulla-torre-10092026/)
 - [Torneo Rapid Hotel Universal (Cervia) - 15 luglio 2026](/tornei/torneo-rapid-hotel-universal-cervia-15072026/)
 - [Torneo Blitz Freschineria (Festa Artusiana) - 1 luglio 2026](/tornei/torneo-da-ugo-01072026/)
 - [Torneo UGO Blitz - 17 giugno 2026](/tornei/torneo-da-ugo-17062026/)
@@ -25,6 +26,6 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 - [Torneo da UGO Rapid - 4 marzo 2026](/tornei/torneo-da-ugo-04032026/)
 - [Torneo da UGO Rapid - 25 febbraio 2026](/tornei/torneo-da-ugo-25022026/)
 - [Torneo da UGO Rapid - 19 febbraio 2026](/tornei/torneo-da-ugo-19022026/)
-- [1° Torneo Rapid UGO Forlimpopoli - 17 gennaio 2026](/tornei/primo-torneo-rapid-ugo-17012026)
+- [1° Torneo Rapid UGO Forlimpopoli - 17 gennaio 2026](/tornei/primo-torneo-rapid-ugo-17012026/)
 
 La pagina verrà aggiornata man mano con i prossimi appuntamenti e con l'archivio dei tornei conclusi.

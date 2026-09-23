@@ -178,14 +178,15 @@ def build_index(text, tournaments, slugs):
     lines = [intro, "", UPCOMING_HEADING, "", *upcoming_lines, "", PAST_HEADING, "", *past_lines]
     if outro:
         lines += ["", outro]
-    return "\n".join(lines) + "\n"
+    return "\n".join(lines) + "\n", len(upcoming_lines), len(past_lines)
 
 
 def main():
     text = INDEX.read_text(encoding="utf-8")
     tournaments = fetch_tournaments()
     slugs = local_page_slugs()
-    updated = build_index(text, tournaments, slugs)
+    updated, upcoming_count, past_count = build_index(text, tournaments, slugs)
+    print(f"vesus tournaments: {upcoming_count} upcoming, {past_count} played")
 
     if "--dry-run" in sys.argv:
         sys.stdout.write(updated)

@@ -4,6 +4,8 @@
 scripts/*.md
 scripts/*.txt
 
+__pycache__/
+
 .editorconfig
 
 # Generated files by hugo

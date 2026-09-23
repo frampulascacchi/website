@@ -10,6 +10,8 @@ Guidance agents working in this repository.
 - Static assets live in `static/`.
 - `public/` is generated output.
 - There is one helper script in `scripts/convert_vesus_standing.py` that converts Vesus standings text files into Markdown tables.
+- `scripts/sync_vesus.py` syncs `content/tornei/_index.md` (upcoming/played tournaments) with vesus.org. It runs daily via `.github/workflows/sync-vesus.yml`, which commits changes to `main`.
+- Vesus.org data (event list, tournament shortKeys, standings, venue, regulations) is pulled from the Vesus GraphQL API, not by scraping the site. See `docs/vesus-data.md` for the persisted query ids and commands.
 - A `flake.nix` provides a Nix development shell and convenience apps for serving/building the site.
 
 ## Useful commands

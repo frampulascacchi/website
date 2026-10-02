@@ -2,13 +2,13 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 
 ### Prossimi tornei in programma 🔜 {#in-programma}
 
-- [Torneo sulla Torre - 1 ottobre 2026](https://vesus.org/tournament/XfxqM5Iv?selectedTab=tournament.registration)
 - [Torneo sulla Torre - 15 ottobre 2026](https://vesus.org/tournament/kxNzqF6C?selectedTab=tournament.registration)
 - [Torneo sulla Torre - 5 novembre 2026](https://vesus.org/tournament/OC1foqz6?selectedTab=tournament.registration)
 - [Torneo sulla Torre - 19 novembre 2026](https://vesus.org/tournament/bzyhqaKE?selectedTab=tournament.registration)
 
 ### Tornei passati 🔙 {#passati}
 
+- [Torneo sulla Torre - 1 ottobre 2026](https://vesus.org/tournament/XfxqM5Iv)
 - [Torneo sulla Torre - 17 settembre 2026](/tornei/torneo-sulla-torre-17092026/)
 - [Torneo sulla Torre - 10 settembre 2026](/tornei/torneo-sulla-torre-10092026/)
 - [Torneo Rapid Hotel Universal (Cervia) - 15 luglio 2026](/tornei/torneo-rapid-hotel-universal-cervia-15072026/)

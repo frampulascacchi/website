@@ -17,10 +17,9 @@ con esperienza nell’insegnamento; valorizzare l'inclusione ospitando figure es
 disabilità.
 Il progetto coinvolge attivamente le famiglie, rendendole parte del percorso educativo dei propri figli.
 
-Il percorso prevede **5/6** incontri e un grande evento conclusivo a [**Villa Masini**](http://casamasini.org/), momento nel quale i ragazzi potranno
-mettersi alla prova confrontandosi con maestri e trascorrere una giornata di festa collettiva.
+Il percorso prevede **5/6** incontri e un appuntamento speciale dedicato alla visione condivisa di una partita di scacchi.
 
-### Calendario 🗓️ (in aggiornamento[^1]) {#calendario}
+### Calendario 🗓️ (in aggiornamento) {#calendario}
 
 **1ᵒ Incontro**:
 - 🗓️ **08/05/2026**
@@ -52,9 +51,12 @@ mettersi alla prova confrontandosi con maestri e trascorrere una giornata di fes
     - Dalle ore **20.30**: Torneo informale di scacchi tra i partecipanti
 - 📍 *Aula Studio UGO (Ex Asilo Rosetti)*, Via Giuseppe Mazzini 2, Forlimpopoli (FC) ([Google Maps](https://maps.app.goo.gl/kRrFoXhyx2ZavTcA7))
 
-**Evento conclusivo a Villa Masini**:
-- 🗓️ **Weekend di Metà/fine settembre**
-- 📍 *Villa Masini, Via Antica Massa 33, Ravenna (RA)* ([Google Maps](https://maps.app.goo.gl/NsdvCVmfQjKkthaS8))
+**Incontro finale**:
+- 🗓️ **23/10/2026**
+- ⏰ Dalle **16.30** alle **18.30**
+- 📍 *Torre dell’Orologio, Piazza Garibaldi 25*
+- 📝 **Descrizione**: guarderemo insieme una partita di scacchi.
+- ♟️ Ai partecipanti sarà offerta la partecipazione gratuita al [Torneo sulla Torre del 5 novembre 2026](https://vesus.org/tournament/OC1foqz6?selectedTab=tournament.registration).
 
 ### Modalità di iscrizione
 
@@ -69,6 +71,3 @@ In seguito, al fine di rendicontare l'attività, in ogni giornata verranno segna
 Rimaniamo a disposizione per qualsiasi curiosità e domanda. Potete contattarci:
 - Via [Whatsapp](https://wa.me/15125849778?text=%2AIncontri%20sugli%20scacchi%2A%0ACiao%20_Frampula%20Scacchi_%2C)
 - Per mail a [scacchi@frampula.com](mailto:scacchi@frampula.com?subject=Corso%20giovanile%20di%20scacchi)
-
-[^1]: Il calendario completo è ancora in fase di definizione a causa di impegni difficilmente prevedibili degli organizzatori.
-      Sarà nostra premura aggiornare questo calendario appena possibile.

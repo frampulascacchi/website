@@ -126,7 +126,6 @@ Strip tags with `python3` + regex to read the text. Useful URLs:
 
 - upcoming tournaments are listed with their vesus registration link;
 - played tournaments (`end` in the past, Europe/Rome) move to the past list, linking the local page when a page in `content/tornei/` contains the matching shortKey, otherwise linking vesus.org;
-- existing entry labels are preserved, so manually curated names are kept; entries whose event disappeared from vesus stay in the archive.
+- existing entry names are preserved while their dates are refreshed from Vesus; entries whose event disappeared from Vesus stay in the archive.
 
 Run it manually with `python3 scripts/sync_vesus.py` (or `--dry-run` to print the result). `.github/workflows/sync-vesus.yml` runs it daily and commits changes to `main`, which triggers the normal deploy workflow.
-

@@ -10,7 +10,7 @@ API and rewrites the "Prossimi tornei" / "Tornei passati" lists:
   tournament page (content/tornei/*.md) contains the matching vesus shortKey,
   otherwise linking vesus.org.
 
-Existing entry labels are preserved, so manually curated names are not lost.
+Existing entry names are preserved, while their dates are updated from Vesus.
 See docs/vesus-data.md for the API details.
 """
 
@@ -41,7 +41,8 @@ MONTHS = [
 ]
 
 ITEM_RE = re.compile(r"^- \[(.+)\]\((.+)\)$")
-VESUS_KEY_RE = re.compile(r"vesus\.org/tournament/([A-Za-z0-9]+)")
+VESUS_KEY_RE = re.compile(r"vesus\.org/tournament/([A-Za-z0-9_-]+)")
+LABEL_DATE_RE = re.compile(r" - \d{1,2} [a-zà]+ \d{4}$")
 LOCAL_SLUG_RE = re.compile(r"^/tornei/([^/]+)/?$")
 
 
@@ -89,9 +90,10 @@ def local_page_slugs():
     return slugs
 
 
-def format_label(tournament):
+def format_label(tournament, label=None):
     date = tournament["start"].astimezone(ROME)
-    return f"{tournament['name']} - {date.day} {MONTHS[date.month - 1]} {date.year}"
+    name = LABEL_DATE_RE.sub("", label) if label else tournament["name"]
+    return f"{name} - {date.day} {MONTHS[date.month - 1]} {date.year}"
 
 
 def parse_block(block):
@@ -151,7 +153,7 @@ def build_index(text, tournaments, slugs):
     upcoming_lines = []
     for tournament in upcoming:
         key = tournament["shortKey"]
-        label = labels.get(key) or format_label(tournament)
+        label = format_label(tournament, labels.get(key))
         url = f"https://vesus.org/tournament/{key}?selectedTab=tournament.registration"
         upcoming_lines.append(f"- [{label}]({url})")
 
@@ -161,7 +163,7 @@ def build_index(text, tournaments, slugs):
     for tournament in played:
         key = tournament["shortKey"]
         slug = slugs.get(key)
-        label = labels.get(key) or format_label(tournament)
+        label = format_label(tournament, labels.get(key))
         url = f"/tornei/{slug}/" if slug else f"https://vesus.org/tournament/{key}"
         past_lines.append(f"- [{label}]({url})")
         represented.add(key)

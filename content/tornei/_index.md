@@ -4,6 +4,7 @@ Qui trovi l'elenco dei tornei organizzati da **Frampula Scacchi** fino a oggi, c
 
 - [Torneo sulla Torre - 17 novembre 2026](https://vesus.org/tournament/bzyhqaKE?selectedTab=tournament.registration)
 - [Torneo sulla Torre - 26 novembre 2026](https://vesus.org/tournament/fGSPqlg_?selectedTab=tournament.registration)
+- [3° TORNEO RAPID FRAMPULA SCACCHI - 1° ANNIVERSARIO - 23 gennaio 2027](https://vesus.org/tournament/9YE5bBIX?selectedTab=tournament.registration)
 
 ### Tornei passati 🔙 {#passati}
 
